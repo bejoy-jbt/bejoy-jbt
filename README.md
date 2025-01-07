@@ -1,22 +1,50 @@
-# 💫 About Me:
-Learning about new things each day<br>Student<br>(1^365 )<(1.1^365)<br>
+# 👋 Hi, I'm Bejoy
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bejoy.__xo._8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bejoyjbt/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bejoy1024) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/7CcE6Nkdl) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Bejoy-Bejoy-3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BejoyJbt) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Bejoy-JBT) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bejoy-jbt &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bejoy-jbt &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bejoy-jbt &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub profile! Here's a glimpse into who I am and what I bring to the table.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bejoy-jbt &icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BejoyJBT) 
+## 🧑‍💼 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 Currently a **student** with a strong focus on **project management** and **product design**.
+- 🌟 Passionate about bridging the gap between technology and user-centric solutions.
+- 🧠 A creative problem-solver who thrives on designing **efficient, scalable, and impactful products**.
+- 🚀 Exploring the intersection of **technology**, **strategy**, and **innovation** to drive meaningful change.
+- 🤝 Experienced in **team collaboration**, **vision alignment**, and ensuring smooth execution of ideas.
+- 💻 Enthusiastic about **data structures and algorithms (DSA)** and honing my **coding skills**.
+- 📚 Continuously learning and exploring new technologies like **Machine Learning**, **Data Science**, and more as a **self-taught learner**.
+
+---
+
+## ✨ What Makes Me Unique
+
+### 🌐 A Holistic Thinker
+- Ability to balance **technical expertise** with **big-picture strategies**.
+- Skilled in breaking down complex problems into **simple and actionable solutions**.
+
+### 🧩 Collaborative Leadership
+- Strong communicator who fosters a collaborative team environment.
+- Proven ability to **mentor peers**, align goals, and bring projects to life.
+
+### 🌟 Innovation-Driven
+- Adept at identifying **emerging trends** and translating them into real-world applications.
+- Always looking to integrate **creative design thinking** into products.
+
+### 🔧 Adaptable and Resourceful
+- Thrive in **dynamic environments**, quickly adapting to new tools and methodologies.
+- Open to feedback and consistently seeking **personal and professional growth**.
+
+---
+![LeetCode Stats](https://leetcard.jacoblin.cool/bejoyTech?theme=dark&font=Gayathri)
+
+---
+## 🌱 Vision
+
+- To become a **product design leader** who crafts intuitive and impactful user experiences.
+- To contribute unique ideas and a fresh perspective in **technology-driven innovation**.
+- To foster environments where **collaboration** and **creativity** flourish.
+- To excel in **coding**, **problem-solving**, and more understanding about  **cutting-edge technologies**.
+
+---
+
+Let’s connect and create something extraordinary together! 🚀
